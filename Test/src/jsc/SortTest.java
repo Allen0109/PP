@@ -9,7 +9,7 @@ public class SortTest {
 		sort(nums,2);
 	}
 	private static void sort(int[]nums, int orderby){
-		//다시 코딩 sort() 이 부분을 직접 구현
+		//다시 코딩 sort() 이 부분을 직접 구현입니다
 	}
 
 }
